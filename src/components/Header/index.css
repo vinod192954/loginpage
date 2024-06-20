@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.logo {
+  height: 20px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  height: 70px;
+  align-items: center;
+}
+.links {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  text-decoration: none;
+  align-items: center;
+}
+.logout-btn {
+  background-color: #0967d2;
+  padding: 10px;
+  border-width: 0px;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+.link {
+  margin-left: 10px;
+  text-decoration: none;
+  text-decoration-line: none;
+}

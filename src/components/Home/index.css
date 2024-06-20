@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+* {
+  font-family: Roboto;
+}
+.shop-btn {
+  background-color: #0967d2;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+  color: #ffffff;
+}
+
+.shopping-image {
+  height: 620px;
+}
+.main-container {
+  display: flex;
+  justify-content: space-around;
+}
